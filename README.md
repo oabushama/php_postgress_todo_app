@@ -69,6 +69,7 @@ You will need to install and enable the PHP PDO PostgreSQL driver in the configu
 
 
 ### Running the PHP app
-Once the database has been installed and the table has been created, simply run the app by serving it from a web browser. You may use any web server to serve the app (e.g., Apache HTTP Server, nginx) or PHP's built-in web server:
-`php -S localhost:8080 -t ./`.  
+Once the database has been installed and the table has been created, simply run the app by serving it from a web server. You may use any web server to serve the app (e.g., Apache HTTP Server, nginx) or PHP's built-in web server:
+
+`php -S localhost:8080 -t ./`
 
