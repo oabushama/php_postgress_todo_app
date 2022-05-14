@@ -1,7 +1,6 @@
 # ToDo app
-A simple todo app written in PHP and uses PostgreSQL as a databse to store todo items.
+A simple todo app written in PHP and uses PostgreSQL as a database to store todo items. This is a CRUD app (Create, Retrieve, Update, and Delete) in PHP using the database-independent PDO extension.
 
-This example illustrates creating a CRUD app (Create, Retreive, Update, and Delete) in PHP using the database-independent PDO extension.
 
 ## Usage
 
