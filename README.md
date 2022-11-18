@@ -6,7 +6,7 @@ A simple todo app written in PHP and uses PostgreSQL as a database to store todo
 
 ### Setting up the database
 
-You will need to install PostgreSQL and connect to the databse server using either the command line client `psql -U username -W' or a GUI client like pgAdmin. 
+You will need to install PostgreSQL and connect to the databse server using either the command line client `psql -U username -W` or a GUI client like pgAdmin. 
 First, we will create a file called `database.ini` that contains the database connection parameters and access credentials. Example:
 
 ```plaintext
